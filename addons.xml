@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="true"?>
 <addons>
-<addon id="plugin.video.OTV_MEDIA" name="OTV_MEDIA" version="5.0.1" provider-name="Orhan t">
+<addon id="plugin.video.OTV_MEDIA" name="OTV_MEDIA" version="5.0.2" provider-name="Orhan t">
  <requires>              
    <!-- <import addon="xbmc.python" version="2.14.0"/> -->
    <import addon="script.module.requests" />
